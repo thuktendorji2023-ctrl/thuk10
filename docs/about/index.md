@@ -25,7 +25,7 @@ title: About Me
 
 <div class="profile-info" markdown>
 
-## Your Name Here
+## Thukten Dorji 
 
 **Title / Role** — student
 

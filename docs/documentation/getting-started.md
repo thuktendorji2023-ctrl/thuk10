@@ -1,5 +1,5 @@
 ---
-title: Getting Started Guide
+title: Getting Started Guide.
 tags:
   - guide
   - tutorial
