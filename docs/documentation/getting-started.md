@@ -13,7 +13,6 @@ Use it as a reference when writing your own documentation!
 ---
 
 ## 📝 Text Formatting.
-
 You can use **bold**, _italic_, ~~strikethrough~~, ==highlighted==, and `inline code`.
 
 You can also write ^^underlined^^ text and use footnotes[^1].
