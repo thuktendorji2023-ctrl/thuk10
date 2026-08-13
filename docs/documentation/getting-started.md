@@ -12,7 +12,7 @@ Use it as a reference when writing your own documentation!
 
 ---
 
-## 📝 Text Formatting
+## 📝 Text Formatting.
 
 You can use **bold**, _italic_, ~~strikethrough~~, ==highlighted==, and `inline code`.
 
