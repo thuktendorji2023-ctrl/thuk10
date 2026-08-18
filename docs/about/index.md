@@ -20,14 +20,14 @@ title: About Me
      4. Replace YOUR_FILE_ID below
      ──────────────────────────────────────────────────────── -->
 
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1JyWcnmrxLjpZ5qqA-l0OjjwL45Uqgy1_&sz=w400" alt="Profile Photo">
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1A_wusDlhkB_z_Ykxv2AUsIPkZ-P3ErXk&sz=w400" alt="Profile Photo">
 
 
 <div class="profile-info" markdown>
 
 ## Thukten Dorji 
-
 **Title / Role** — student
+![docs]https:(//drive.google.com/thumbnail?id=1JyWcnmrxLjpZ5qqA-l0OjjwL45Uqgy1_&sz=w400) 
 
 > _"Add your favorite quote or personal tagline here."_
 
