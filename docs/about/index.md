@@ -53,6 +53,7 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 <span class="skill-badge">Python</span>
 
+
 </div>
 
 !!! tip "Customize Your Skills"
@@ -78,4 +79,4 @@ and what drives you. Keep it personal and authentic — this is your space!
 | :fontawesome-brands-github: GitHub | [yourusername](https://github.com/yourusername) |
 | :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
 | :material-email: Email | [your.email@example.com](mailto:your.email@example.com) |
-| :material-web: Website | [yourwebsite.com](https://yourwebsite.com) |
+| :material-web: Website | [https://itsthuks.vercel.app/](https://yourwebsite.com) |
