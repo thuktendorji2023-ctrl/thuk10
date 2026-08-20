@@ -29,7 +29,7 @@ title: About Me
 **Title / Role** — student
 ![docs]https:(//drive.google.com/thumbnail?id=1JyWcnmrxLjpZ5qqA-l0OjjwL45Uqgy1_&sz=w400) 
 
-> _"Add your favorite quote or personal tagline here."_
+> _""_
 
 A short paragraph about yourself. Describe who you are, what you're passionate about,
 and what drives you. Keep it personal and authentic — this is your space!
@@ -52,13 +52,6 @@ and what drives you. Keep it personal and authentic — this is your space!
 <div markdown>
 
 <span class="skill-badge">Python</span>
-<span class="skill-badge">JavaScript</span>
-<span class="skill-badge">Arduino</span>
-<span class="skill-badge">MkDocs</span>
-<span class="skill-badge">Git & GitHub</span>
-<span class="skill-badge">3D Printing</span>
-<span class="skill-badge">CAD Design</span>
-<span class="skill-badge">Electronics</span>
 
 </div>
 
