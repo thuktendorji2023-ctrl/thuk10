@@ -9,7 +9,8 @@ hide:
 <div class="hero-section has-bg-image" style="background: linear-gradient(135deg, rgba(57,73,171,0.85), rgba(26,35,126,0.9)), url('https://drive.google.com/thumbnail?id=19zidArzzuhZKQrszELYpdqiIkc7uFHfz&sz=w1600') center/cover no-repeat;" markdown>
 
 
-# 
+<span style="font-size: 2em;">_👋 Welcome to My Documentation Site_</span>
+
 
 _A place to document my journey, learning, and projects._
 
