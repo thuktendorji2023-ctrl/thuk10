@@ -20,7 +20,7 @@ title: About Me
 ## Thukten Dorji 
 **Title / Role** — student
 
-> _""_
+> _"Continuity is strength."_
 
 I'm Thukten Dorji, a 16-year-old who loves learning new things every day. I love sculpting, painting, playing basketball, and competing in FC Mobile esports.
 
@@ -34,22 +34,18 @@ I'm Thukten Dorji, a 16-year-old who loves learning new things every day. I love
 
 | Year | Degree / Grade | School |
 |------|-----------------|-------------|
-| 2024 – Present | B.Sc. in Your Major | Your University |
-| 2020 – 2024 | Higher Secondary | Your School/College |
+2024 – |Present |Higher Secondary |The Royal Academy| 
+| 2023 – 2024 | Higher Secondary | The Royal Academy |
 
 ## 🛠️ Skills
 
 <div markdown>
 
 <span class="skill-badge">Python</span>
+<span class="skill-badge">Tinkercad</span>
 
 
 </div>
-
-!!! tip "Customize Your Skills"
-
-    Replace the badges above with your own skills.  
-    Just copy-paste a `<span class="skill-badge">Your Skill</span>` line and change the text.
 
 <hr class="section-divider">
 
