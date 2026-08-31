@@ -11,14 +11,6 @@ title: About Me
 
 <div class="profile-section" markdown>
 
-<!-- ── Profile Photo ─────────────────────────────────────────
-     To embed a photo from Google Drive:
-     1. Upload your photo to Google Drive
-     2. Right-click → Share → "Anyone with the link"
-     3. Copy the FILE ID from the share link
-        (e.g., https://drive.google.com/file/d/FILE_ID/view)
-     4. Replace YOUR_FILE_ID below
-     ──────────────────────────────────────────────────────── -->
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1A_wusDlhkB_z_Ykxv2AUsIPkZ-P3ErXk&sz=w400" alt="Profile Photo">
 
@@ -27,7 +19,6 @@ title: About Me
 
 ## Thukten Dorji 
 **Title / Role** — student
-![docs]https:(//drive.google.com/thumbnail?id=1JyWcnmrxLjpZ5qqA-l0OjjwL45Uqgy1_&sz=w400) 
 
 > _""_
 
@@ -65,10 +56,10 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 ## 🌟 Interests
 
-- 🔬 **Research Area 1** — Brief description of your interest
-- 🎨 **Creative Hobby** — Brief description
-- 🏃 **Sports / Activity** — Brief description
-- 📚 **Reading / Learning** — Brief description
+- 🔬 **Research Area 1** — Cross-disciplinary learning centered on continuous, daily knowledge acquisition and self-directed skill building.
+- 🎨 **Creative Hobby** — Multi-medium studio art combining physical three-dimensional sculpting with expressive painting.
+- 🏃 **Sports / Activity** — Active team play through basketball, complemented by competitive tactical gameplay in mobile esports like FC Mobile.
+
 
 <hr class="section-divider">
 
