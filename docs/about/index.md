@@ -22,8 +22,7 @@ title: About Me
 
 > _""_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
+I'm Thukten Dorji, a 16-year-old who loves learning new things every day. I love sculpting, painting, playing basketball, and competing in FC Mobile esports.
 
 </div>
 
